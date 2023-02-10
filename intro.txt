@@ -1,0 +1,4 @@
+name = vivek;
+age = 22;
+studnts code = fw26_1039;
+add= i am from agra city of UP
